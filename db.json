@@ -1,0 +1,67 @@
+{
+    "products": [
+        {
+          "eanCode": "5dc32e16153349097a5ddaac",
+          "sapCode": "5dc32e1633d8d9c8fd1adae0",
+          "description": "Esse proident eu ipsum enim do cupidatat velit consectetur aliquip fugiat. Voluptate mollit officia aute nisi aliquip. Ullamco minim nulla cillum laboris elit anim id.",
+          "price": "365.56",
+          "imgURl": "http://placehold.it/32x32"
+        },
+        {
+          "eanCode": "5dc32e16345647ef052229df",
+          "sapCode": "5dc32e168deccc075b639b5b",
+          "description": "Commodo exercitation deserunt irure elit Lorem aute ullamco velit irure est pariatur velit Lorem labore. Culpa non elit ex sunt laborum nisi consectetur aliquip est esse non dolore. Ex nisi mollit ea officia. Consequat commodo minim tempor sint nostrud nulla.",
+          "price": "149.77",
+          "imgURl": "http://placehold.it/32x32"
+        },
+        {
+          "eanCode": "5dc32e16485e14e2608daf58",
+          "sapCode": "5dc32e16c57e49646000430b",
+          "description": "Et veniam voluptate mollit ullamco labore occaecat excepteur esse nulla aliquip. Reprehenderit sit dolor esse mollit ad laborum in ut esse sint eu voluptate culpa anim. Exercitation velit sunt Lorem nostrud ea non.",
+          "price": "276.62",
+          "imgURl": "http://placehold.it/32x32"
+        },
+        {
+          "eanCode": "5dc32e16d3df6489fb830a8c",
+          "sapCode": "5dc32e16066006a6decef784",
+          "description": "Voluptate Lorem consectetur magna velit. Mollit culpa consequat labore est velit aute esse voluptate est. Ex ad labore qui commodo ipsum id proident aliqua. Elit anim culpa non sit non eiusmod eu nulla amet sit aliqua ad. Tempor officia tempor mollit quis ullamco exercitation. Lorem dolor proident anim eu ad eu commodo exercitation incididunt aliquip eu deserunt mollit. Consectetur culpa adipisicing non deserunt enim minim commodo voluptate pariatur magna sint.",
+          "price": "151.02",
+          "imgURl": "http://placehold.it/32x32"
+        },
+        {
+          "eanCode": "5dc32e1693f7520b8b88ae65",
+          "sapCode": "5dc32e160bf213abf1cb2845",
+          "description": "Aliquip consectetur ut consectetur reprehenderit magna fugiat veniam. Aute fugiat laborum laboris reprehenderit. Mollit adipisicing fugiat incididunt mollit. Anim sit laborum consectetur laboris sunt sunt. Proident adipisicing sunt nulla mollit officia consequat.",
+          "price": "172.48",
+          "imgURl": "http://placehold.it/32x32"
+        },
+        {
+          "eanCode": "5dc32e1647600ccf9e87c961",
+          "sapCode": "5dc32e16eb8d6d9a7233d4f2",
+          "description": "Aliquip ullamco magna dolor sit deserunt nulla ullamco velit occaecat qui laborum. Nulla incididunt pariatur amet occaecat adipisicing exercitation irure proident. Incididunt labore exercitation minim veniam adipisicing sint amet aute qui adipisicing elit ea nulla. Nostrud qui occaecat laborum commodo Lorem. Nulla mollit esse adipisicing sunt ad elit. Anim pariatur duis occaecat et ullamco labore culpa labore irure incididunt eiusmod dolor reprehenderit minim. Dolore sunt nisi ullamco adipisicing minim mollit fugiat eu ut duis sint aliqua mollit.",
+          "price": "120.13",
+          "imgURl": "http://placehold.it/32x32"
+        },
+        {
+          "eanCode": "5dc32e1640f51dc279d86277",
+          "sapCode": "5dc32e16cd280f732d71c07a",
+          "description": "Qui aliqua id qui sunt id do. Fugiat ipsum aute occaecat sunt do duis ad deserunt cupidatat. Ipsum et commodo ea laborum exercitation Lorem amet. Quis nostrud in id proident aliqua culpa anim labore quis mollit et amet proident aliqua. Amet sit occaecat ex sit ut irure deserunt. Ipsum ullamco et labore est cillum dolore mollit eu eiusmod aute Lorem. Velit reprehenderit aliqua deserunt duis ex aliquip do occaecat enim velit enim do.",
+          "price": "139.10",
+          "imgURl": "http://placehold.it/32x32"
+        },
+        {
+          "eanCode": "5dc32e167a953a0fe5db801e",
+          "sapCode": "5dc32e16c48cff9bb1424e92",
+          "description": "Irure pariatur est velit proident. Laboris do mollit voluptate minim officia est consequat. Commodo qui occaecat voluptate amet incididunt. Fugiat est duis incididunt est qui laboris commodo non fugiat culpa amet sit exercitation.",
+          "price": "178.54",
+          "imgURl": "http://placehold.it/32x32"
+        },
+        {
+          "eanCode": "5dc32e1602f10ae30344d4eb",
+          "sapCode": "5dc32e16c4cc3357f57b5aa5",
+          "description": "Lorem ad dolore exercitation ullamco. Duis eiusmod nisi dolor laboris laboris consectetur dolor aute aute excepteur proident reprehenderit incididunt Lorem. Quis ea excepteur in quis consequat ullamco magna non. Incididunt consequat ex reprehenderit reprehenderit do quis culpa consectetur magna consequat deserunt sunt nisi ad. Ullamco exercitation est aliquip ut et laboris reprehenderit nisi enim do magna. Tempor culpa laborum labore velit aliquip ullamco enim.",
+          "price": "182.59",
+          "imgURl": "http://placehold.it/32x32"
+        }
+      ]
+}
